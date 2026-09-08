@@ -1,4 +1,4 @@
-# AI Evaluation Practice – Bengali
+# AI Evaluation Practice - Bengali
 
 This repository contains personal practice samples related to AI response evaluation and data quality assessment.
 
@@ -18,6 +18,7 @@ The purpose of these samples is to demonstrate my ability to:
 - Claude
 - Google Gemini
 - NotebookLM
+- Perplexity
 
 ## Evaluation Areas
 
@@ -38,8 +39,8 @@ The purpose of these samples is to demonstrate my ability to:
 
 ## Language
 
-- Bengali – Native
-- English – Professional Working Proficiency
+- Bengali - Native
+- English - Professional Working Proficiency
 
 ## Disclaimer
 
